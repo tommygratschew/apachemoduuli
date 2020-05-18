@@ -1,5 +1,5 @@
 base:
-  'tommyminion':
+  '*':
     - ufw
     - sshd
     - apache
